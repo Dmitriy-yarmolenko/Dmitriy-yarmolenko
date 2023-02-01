@@ -1,8 +1,9 @@
-### Hi there 👋
+### Привет! 👋
 
 <!--
 **Dmitriy-yarmolenko/Dmitriy-yarmolenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Меня зовут Дмитрий Ярмоленко.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
