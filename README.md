@@ -8,7 +8,7 @@
 - [Пилот SIEM системы.](https://github.com/Dmitriy-yarmolenko/Dmitriy-yarmolenko/blob/72eaee4fb9a58351a9318476f7db17de004ca71c/siem%20project.md)
 - Пилот сканера для SAST проверки кода.
 - Проект по реализации требований ФЗ-187 ([КИИ](https://github.com/Dmitriy-yarmolenko/Dmitriy-yarmolenko/blob/0ba0352fafe860f3e5bb230098140e611a73cf06/kii.md))
-- Аудиты ИБ (ГОСТ 57580, 719-П, ФЗ-152)
+- [Аудиты ИБ](https://github.com/Dmitriy-yarmolenko/Dmitriy-yarmolenko/blob/bb290e98e5dd0966f5c27ac041c1d7e53d508508/audit.md) (ГОСТ 57580, 719-П, ФЗ-152)
 - Внедрение Корпоративного центра регистрации для выпуска электронных подписей ([КЦР](https://github.com/Dmitriy-yarmolenko/Dmitriy-yarmolenko/blob/6275278221f51446b7ba857902b14fc43823a853/kcr.md))
 - Тендер по выбору единого антивирусного решения для ГК
 - Дипломный проект в Нетологии. [DevSecOps](https://github.com/Dmitriy-yarmolenko/Dmitriy-yarmolenko/blob/aec0073ba5948f8257d6b9f166a268fb4fd25959/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf)
