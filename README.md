@@ -7,7 +7,7 @@
 - Пилот сканера для SAST проверки кода.
 - Проект по реализации требований ФЗ-187 ([КИИ](https://github.com/Dmitriy-yarmolenko/Dmitriy-yarmolenko/blob/0ba0352fafe860f3e5bb230098140e611a73cf06/kii.md))
 - Аудиты ИБ (ГОСТ 57580, 719-П, ФЗ-152)
-- Внедрение Корпоративного центра регистрации для выпуска электронных подписей
+- Внедрение Корпоративного центра регистрации для выпуска электронных подписей ([КЦР](https://github.com/Dmitriy-yarmolenko/Dmitriy-yarmolenko/blob/ec4d552e2527acbbf7946fe8a6fcfbf1016dc325/kcr))
 - Тендер по выбору единого антивирусного решения для ГК
 - Дипломный проект в Нетологии. [DevSecOps](https://github.com/Dmitriy-yarmolenko/Dmitriy-yarmolenko/blob/aec0073ba5948f8257d6b9f166a268fb4fd25959/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf)
 
