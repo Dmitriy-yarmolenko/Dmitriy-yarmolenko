@@ -3,7 +3,7 @@
 Я Дмитрий Ярмоленко, специалист по информационной безопасности.
 
 **Вот мои проекты:**
-- [Пилот SIEM системы.](https://github.com/Dmitriy-yarmolenko/Dmitriy-yarmolenko/blob/8c8bb8a1f186264c9efa9710aa4cd6aab41aceec/siem%20project)
+- [Пилот SIEM системы.](https://github.com/Dmitriy-yarmolenko/Dmitriy-yarmolenko/blob/8c8bb8a1f186264c9efa9710aa4cd6aab41aceec/siem%20project.md)
 - Пилот сканера для SAST проверки кода.
 - Проект по реализации требований ФЗ-187 (КИИ)
 - Аудиты ИБ (ГОСТ 57580, 719-П, ФЗ-152)
