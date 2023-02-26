@@ -2,7 +2,7 @@
 
 Я Дмитрий Ярмоленко, специалист по информационной безопасности.
 
-Мое резюме можно посмотреть [тут](https://docs.google.com/document/d/1lf6_aqn3nQPdVVaU8lyfgan9FIvVOOYXlXbo1kbu0RA/edit?usp=sharing).
+Мое резюме можно посмотреть [тут](https://docs.google.com/document/d/128nQesPB-eLgSlhLJSfiu0t6eoKxONUhv9SMzEnLZkg/edit?usp=sharing).
 
 **Вот мои проекты:**
 - [Пилот SIEM системы.](https://github.com/Dmitriy-yarmolenko/Dmitriy-yarmolenko/blob/72eaee4fb9a58351a9318476f7db17de004ca71c/siem%20project.md)
